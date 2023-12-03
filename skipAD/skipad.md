@@ -1,5 +1,8 @@
 # 使用腳本自動跳過/skip ad on yt/ YouTube広告をスキップする
+## overview
+一個可以自動跳過廣告而且目前不會被yt官方攔停(原理不同於adblock)  
 
+[使用教學]()
 * 需先安裝擴充功能`竄改猴`  ==> 新增腳本 ==>將本腳本加入  
 * Install the extension `Tampermonkey` first ==> Add script ==> Insert this script.  
 * まず拡張機能 `Tampermonkey` をインストールしてください ==> スクリプトを追加 ==> このスクリプトを挿入してください。
