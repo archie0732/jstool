@@ -29,6 +29,7 @@
 <br>
 <br>
 
+[腳本](https://github.com/archie0732/jstool/blob/main/skipAD/skipAD.js)   
 >將腳本貼上==>檔案==>儲存  
 ![](https://github.com/archie0732/jstool/blob/main/skipAD/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-03%20125038.png)
 <br>
