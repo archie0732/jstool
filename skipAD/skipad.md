@@ -2,7 +2,7 @@
 
 * 需先安裝擴充功能`竄改猴`  ==> 新增腳本 ==>將本腳本加入  
 * Install the extension `Tampermonkey` first ==> Add script ==> Insert this script.  
-* まず拡張機能 'Tampermonkey' をインストールしてください ==> スクリプトを追加 ==> このスクリプトを挿入してください。
+* まず拡張機能 `Tampermonkey` をインストールしてください ==> スクリプトを追加 ==> このスクリプトを挿入してください。
 
 [script](https://github.com/archie0732/jstool/blob/main/skipAD/skipAD.js)
 ```js
