@@ -4,7 +4,7 @@
 * Install the extension `Tampermonkey` first ==> Add script ==> Insert this script.  
 * まず拡張機能 'Tampermonkey' をインストールしてください ==> スクリプトを追加 ==> このスクリプトを挿入してください。
 
-[script]()
+[script](https://github.com/archie0732/jstool/blob/main/skipAD/skipAD.js)
 ```js
 // ==UserScript==
 // @name         自動跳過YouTube廣告
