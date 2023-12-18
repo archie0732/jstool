@@ -1,29 +1,45 @@
-# 自動釣魚腳本
+# FishBotKEKW
+![alt text](https://i.ibb.co/6wyRnsZ/Fishbot-KEKW-5.png)
 
-### 繁中
-按下F2==>選擇`2`地點(點池塘)==>選擇完成==>按下F4
+## THIS REPO IS NO LOGNER MAINTAINED!
+
+FishBotKEKW is a simple yet fairly reliable fully external fishing bot for Albion Online, made with AutoHotKey.
+
+### Features
+
+  - Can fish on up to three adjacent spots
+  - Automatically uses fish bait
+  - Kinda humanized timing
+  - Fish
+
+### Installation
+
+Simply download the files and double click on FishBotKEKW.ahk to start the script.
+
+> To run the bot you will need AutoHotKey to be installed in your system which can be downloaded on the official [website](https://www.autohotkey.com/)
+
+### Usage
+
+The bot will automatically uses fish baits, and will try to equip them after every use from the first inventory slot.
+***So it's important that your first inventory slot is occupied by alot of fish baits.**
+
+Once the script is started, press F1 to select one spot, F2 for two spots or F3 for three spots where you will be fishing, then left click on the spots.
+
+Once you selected the spots, just press F4 to start fishing.
+
+To close the script press ESC.
+
+### Requirements
+
+As of now the bot only works on **1920x1080** resolutions.
+
+Set the client to borderless window and HUD size (scaling) to 80%
+
+Since the bot uses sound to check when fish took the bait, it is recomanded to set the Albion Online client volume at max on the windows audio mixer and **remove any other audio source**.
+
+It is required to remove the ingame Music and Ambience sounds and set Master Volume to 17% and Scound Effects to 30%.
 
 
-注意以下條件:
+### License
 
-1. 由於腳本是用聲音判斷，固**不可播放音樂**(建議關閉遊戲音樂量只留音效)，還以去人少一點的地方
-2. 本腳本未經官方允許，使用者請自考量
-
-### English
-
-Press F2 ==> Select location 2 (Pond) ==> Confirm selection ==> Press F4
-
-Please note the following conditions:
-
-1. Since the script relies on sound detection, **music playback is not allowed** (it is recommended to turn off the in-game music and keep only the sound effects). Also, it is advisable to go to places with fewer people.
-2. This script is not officially sanctioned; users should consider it at their own discretion.
-
-### 日本語
-F2を押す ==> ロケーション2（池）を選択 ==> 選択を確認 ==> F4を押す
-
-以下の条件に注意してください：
-
-1. スクリプトは音の検出に依存しているため、音楽の再生は許可されていません（ゲームの音楽をオフにし、効果音のみを残すことをお勧めします）。また、人が少ない場所を選ぶことをお勧めします。
-2. このスクリプトは公式に許可されていないものであり、ユーザーは自己の判断でご利用ください。
-
-
+This project is licensed under the terms of the GNU General Public License.
